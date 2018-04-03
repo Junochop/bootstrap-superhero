@@ -40,3 +40,12 @@ hero-container {
 .charImage{
     border-radius: 100%;
 }
+
+.femaleImage  {
+    border: 5px solid pink;
+    
+}
+
+.maleImage {
+    border: 5px solid #518cca;
+}
