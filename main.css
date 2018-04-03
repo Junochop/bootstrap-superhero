@@ -5,3 +5,38 @@ body {
 h2 {
     color:white;
 }
+
+hero-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    margin: 2%;
+    padding: 2%;
+    width: 300px;
+    border: 2px solid rgb(67, 141, 216);
+    text-align: center;
+    background-color: rgb(67, 141, 216);
+}
+
+
+
+.panel > .panel-heading{
+    background-color: #f78f3f;
+}
+
+.panel {
+    background-color: #504a4a;
+    border: solid 1px white;
+    text-align: center;
+    height: 450px;
+}
+.charDescription {
+    color: #e23636;
+}
+
+.charImage{
+    border-radius: 100%;
+}
